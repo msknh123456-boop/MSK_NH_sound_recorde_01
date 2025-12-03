@@ -1,0 +1,12 @@
+# virtualenv
+.venv/
+
+# build artifacts
+build/
+dist/
+deliver/
+*.spec
+
+# archives/logs
+*.zip
+*.log
