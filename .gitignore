@@ -10,3 +10,6 @@ deliver/
 # archives/logs
 *.zip
 *.log
+
+# specific files
+アプリ開発まとめ-251009.md
